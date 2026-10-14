@@ -1,0 +1,30 @@
+{
+  "name": "Digest Keeper",
+  "image": "https://api.imd.fun/artifacts/a8d58e44e53e4a1f485d3cdfc57dd32655af412a94fe6bc6be2cea3cdc2cfb92",
+  "attributes": [
+    {
+      "trait_type": "Cave",
+      "value": "Water"
+    },
+    {
+      "trait_type": "Wall",
+      "value": "Line 4"
+    },
+    {
+      "trait_type": "Number",
+      "value": 1
+    },
+    {
+      "trait_type": "Left behind",
+      "value": "offline EIP-712 digest checker"
+    },
+    {
+      "trait_type": "Meaning",
+      "value": "Pepe weighs a signable message before giving it a mark."
+    },
+    {
+      "trait_type": "One thing",
+      "value": "offline EIP-712 typed-data digest checking"
+    }
+  ]
+}

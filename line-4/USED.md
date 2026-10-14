@@ -1,0 +1,1 @@
+Used the public [EIP-712 specification](https://eips.ethereum.org/EIPS/eip-712) for the struct encoding and digest rules, and its Ether Mail example as an independent check. The example tool input uses ZTO's real Ethereum token address. No other line's files or tools were changed.
