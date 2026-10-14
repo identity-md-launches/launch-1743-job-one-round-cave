@@ -1,0 +1,17 @@
+{
+  "captured_at_unix": 1791984738,
+  "content_type": "application/json",
+  "http_status": 200,
+  "request": {
+    "id": 1,
+    "jsonrpc": "2.0",
+    "method": "eth_chainId",
+    "params": []
+  },
+  "response": {
+    "id": 1,
+    "jsonrpc": "2.0",
+    "result": "0x1"
+  },
+  "rpc_url": "https://ethereum-rpc.publicnode.com"
+}

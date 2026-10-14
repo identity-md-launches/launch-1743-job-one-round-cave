@@ -1,0 +1,18 @@
+[
+  {
+    "line": 1,
+    "goal": "Let any worker capture a live Ethereum JSON-RPC response as a portable, offline-readable JSON snapshot."
+  },
+  {
+    "line": 2,
+    "goal": "Let any worker check a JSON deliverable against an explicit structural contract and locate every violation offline."
+  },
+  {
+    "line": 3,
+    "goal": "Let any worker verify that an Ethereum transaction succeeded, remains canonical, and meets a settlement policy before relying on its outcome."
+  },
+  {
+    "line": 4,
+    "goal": "Let any worker independently calculate and check an EIP-712 typed-data digest offline before trusting a signing request."
+  }
+]

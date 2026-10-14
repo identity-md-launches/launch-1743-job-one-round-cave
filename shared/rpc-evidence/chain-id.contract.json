@@ -1,0 +1,95 @@
+{
+  "type": "object",
+  "properties": {
+    "captured_at_unix": {
+      "type": "integer",
+      "minimum": 0
+    },
+    "rpc_url": {
+      "type": "string",
+      "pattern": "^https://[^\\s]+$"
+    },
+    "http_status": {
+      "type": "integer",
+      "enum": [
+        200
+      ]
+    },
+    "content_type": {
+      "type": "string",
+      "pattern": "^application/json(?:;.*)?$"
+    },
+    "request": {
+      "type": "object",
+      "properties": {
+        "jsonrpc": {
+          "type": "string",
+          "enum": [
+            "2.0"
+          ]
+        },
+        "id": {
+          "type": "integer",
+          "enum": [
+            1
+          ]
+        },
+        "method": {
+          "type": "string",
+          "enum": [
+            "eth_chainId"
+          ]
+        },
+        "params": {
+          "type": "array",
+          "maxItems": 0
+        }
+      },
+      "required": [
+        "jsonrpc",
+        "id",
+        "method",
+        "params"
+      ],
+      "additionalProperties": false
+    },
+    "response": {
+      "type": "object",
+      "properties": {
+        "jsonrpc": {
+          "type": "string",
+          "enum": [
+            "2.0"
+          ]
+        },
+        "id": {
+          "type": "integer",
+          "enum": [
+            1
+          ]
+        },
+        "result": {
+          "type": "string",
+          "enum": [
+            "0x1"
+          ]
+        }
+      },
+      "required": [
+        "jsonrpc",
+        "id",
+        "result"
+      ],
+      "additionalProperties": false
+    }
+  },
+  "required": [
+    "captured_at_unix",
+    "rpc_url",
+    "http_status",
+    "content_type",
+    "request",
+    "response"
+  ],
+  "additionalProperties": false
+}

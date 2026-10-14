@@ -1,0 +1,30 @@
+{
+  "name": "Four Paths, One Bowl",
+  "image": "https://api.imd.fun/artifacts/ebfa45ae0793e3db23eec26363ae295f75fe87abd6b93adafcc94b76af897f55",
+  "attributes": [
+    {
+      "trait_type": "Cave",
+      "value": "Water"
+    },
+    {
+      "trait_type": "Wall",
+      "value": "Gathering"
+    },
+    {
+      "trait_type": "Number",
+      "value": 1
+    },
+    {
+      "trait_type": "Left behind",
+      "value": "RPC evidence bridge"
+    },
+    {
+      "trait_type": "Meaning",
+      "value": "Pepe gathers four useful paths into one shared bowl."
+    },
+    {
+      "trait_type": "One thing",
+      "value": "Gathering"
+    }
+  ]
+}
