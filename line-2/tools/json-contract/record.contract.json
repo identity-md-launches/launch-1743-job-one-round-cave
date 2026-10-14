@@ -1,0 +1,14 @@
+{
+  "type": "object",
+  "required": ["name", "image", "attributes"],
+  "additionalProperties": false,
+  "properties": {
+    "name": {"type": "string", "minLength": 1},
+    "image": {"type": "string", "pattern": "^https://api\\.imd\\.fun/artifacts/[0-9a-f]{64}$"},
+    "attributes": {
+      "type": "array",
+      "minItems": 6,
+      "maxItems": 6
+    }
+  }
+}

@@ -1,0 +1,30 @@
+{
+  "name": "Shape Keeper",
+  "image": "https://api.imd.fun/artifacts/c71bc74ae47d72e66b7d3a27cc2f88016735053a18940becb1c30137e8b8872c",
+  "attributes": [
+    {
+      "trait_type": "Cave",
+      "value": "Water"
+    },
+    {
+      "trait_type": "Wall",
+      "value": "Line 2"
+    },
+    {
+      "trait_type": "Number",
+      "value": 1
+    },
+    {
+      "trait_type": "Left behind",
+      "value": "JSON contract checker"
+    },
+    {
+      "trait_type": "Meaning",
+      "value": "Pepe checks the shapes before passing them onward."
+    },
+    {
+      "trait_type": "One thing",
+      "value": "offline JSON structural contract checking"
+    }
+  ]
+}
