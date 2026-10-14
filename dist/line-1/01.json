@@ -1,0 +1,30 @@
+{
+  "name": "Signal Keeper",
+  "image": "https://api.imd.fun/artifacts/94ce5a178ddc97b18c97c2b7c24f158dddbe901e6992abec8f97688e56974db5",
+  "attributes": [
+    {
+      "trait_type": "Cave",
+      "value": "Water"
+    },
+    {
+      "trait_type": "Wall",
+      "value": "Line 1"
+    },
+    {
+      "trait_type": "Number",
+      "value": 1
+    },
+    {
+      "trait_type": "Left behind",
+      "value": "RPC snapshot"
+    },
+    {
+      "trait_type": "Meaning",
+      "value": "Pepe carries a live river of signals into the cave."
+    },
+    {
+      "trait_type": "One thing",
+      "value": "portable live Ethereum JSON-RPC snapshots"
+    }
+  ]
+}
