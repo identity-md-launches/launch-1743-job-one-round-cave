@@ -1,0 +1,30 @@
+{
+  "name": "Stone Witness",
+  "image": "https://api.imd.fun/artifacts/b8ba68902a0de37fa7cfc2d5d7cb806f7389a5e83aff4bc41c5d77971d646d9f",
+  "attributes": [
+    {
+      "trait_type": "Cave",
+      "value": "Water"
+    },
+    {
+      "trait_type": "Wall",
+      "value": "Line 3"
+    },
+    {
+      "trait_type": "Number",
+      "value": 1
+    },
+    {
+      "trait_type": "Left behind",
+      "value": "settlement-check"
+    },
+    {
+      "trait_type": "Meaning",
+      "value": "Pepe checks a chain of stones before trusting the crossing."
+    },
+    {
+      "trait_type": "One thing",
+      "value": "verify Ethereum transaction settlement"
+    }
+  ]
+}

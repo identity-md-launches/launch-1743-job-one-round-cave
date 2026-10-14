@@ -1,0 +1,26 @@
+{
+  "chainId": 1,
+  "transactionHash": "0x1d760b4ace58bd6023601084efac72c5416f66e40b0d046e45a94fbe63b25641",
+  "head": {
+    "number": 26190989,
+    "hash": "0x58cfa3ea639d7fade631bf864e76695b56d412acbc84f3975a4a199f9477979b"
+  },
+  "policy": {
+    "minimumConfirmations": 12,
+    "requireFinalized": false
+  },
+  "settled": true,
+  "inclusion": {
+    "number": 26190942,
+    "hash": "0x9f58fc0ddb9120da7d06035424918e452080500554fa192a2f440aa274a9312d"
+  },
+  "execution": "succeeded",
+  "finalizedHead": {
+    "number": 26190919,
+    "hash": "0x97927203b54872197febe26ed712c341df51d3097d6d16de7ec9259b30f6025e"
+  },
+  "confirmations": 48,
+  "finalized": false,
+  "state": "settled",
+  "reason": "Execution and canonical-chain evidence meet the selected policy."
+}
